@@ -12,5 +12,5 @@ python3 -m pip install -r requirements.txt
 ### 执行代码
 
 ```
-python3 src/demo1.py
+python3 src/01_ollama.py
 ```
