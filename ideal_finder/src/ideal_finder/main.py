@@ -3,8 +3,7 @@ from ideal_finder.crew import IdealFinderCrew
 
 
 def run():
-    # Replace with your inputs, it will automatically interpolate any tasks and agents information
     inputs = {
-        'topic': 'AI LLMs'
+        'topic': '工具类互联网服务开发的创意'
     }
     IdealFinderCrew().crew().kickoff(inputs=inputs)
