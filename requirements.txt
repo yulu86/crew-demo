@@ -2,5 +2,6 @@ crewai
 crewai[tools]
 langchain_openai
 langchain-community
+pydantic
 tavily-python
 jupyter
